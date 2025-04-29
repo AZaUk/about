@@ -29,7 +29,7 @@ I'm a passionate **Computer Science** student at **Saxion University of Applied 
 ## 🛠️ Tech Stack
 
 **Languages & Frameworks:**  
-![My Skills](https://skillicons.dev/icons?i=python,cpp,cs,c,js,ts,react,flutter,dart,html,css,sql,arduino,nodejs,electron,graphql,jquery,latex,md,mysql,nextjs,npm,php)
+![My Skills](https://skillicons.dev/icons?i=python,cpp,cs,c,js,ts,react,flutter,dart,html,css,arduino,nodejs,electron,graphql,jquery,latex,md,mysql,nextjs,npm,php)
 
 **Tools:**  
 ![Tools](https://skillicons.dev/icons?i=git,github,gitlab,vscode,figma,azure,clion,cmake,ai,codepen,idea,linux,matlab,postgres,pycharm,qt,raspberrypi,sqlite,sublime,ubuntu,webstorm,windows)
