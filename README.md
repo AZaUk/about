@@ -40,8 +40,8 @@ I'm a passionate **Computer Science** student at **Saxion University of Applied 
 
 - [The Weather Brigade](https://github.com/AZaUk/TheWeatherBrigade) — Real-time weather data app developed with a team.
 - [Voice Assistant (Elsi)](https://elsi.sealzi.com/) — Early AI-based voice assistant built with Python and later iterated with C#.
-- **[Flutter Mobile App](https://github.com/AZaUk/FlutterCalculator)** — A cross-platform Android app project for 2022–2023.
-- **Mask Detection System** — Machine learning project during COVID-19 to improve school safety.
+- [Flutter Mobile App](https://github.com/AZaUk/FlutterCalculator) — A cross-platform Android app project for 2022–2023.
+- Mask Detection System — Machine learning project during COVID-19 to improve school safety.
 
 ---
 
@@ -49,7 +49,7 @@ I'm a passionate **Computer Science** student at **Saxion University of Applied 
 
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/oleksandr-z/)
 ![CodePen](https://skillicons.dev/icons?i=codepen)
-![Portfolio](https://www.figma.com/proto/CznMBdXTD8U3ySWmDgBkoz/Oleksandr-Zabolotnyy's-Portfolio?page-id=0%3A1&node-id=3-2&p=f&viewport=176%2C151%2C0.1&t=cYmGuCSzmUUjfks5-1&scaling=scale-down-width&content-scaling=fixed&starting-point-node-id=3%3A2)
+[![Portfolio](https://skillicons.dev/icons?i=figma)](https://www.figma.com/proto/CznMBdXTD8U3ySWmDgBkoz/Oleksandr-Zabolotnyy's-Portfolio?page-id=0%3A1&node-id=3-2&p=f&viewport=176%2C151%2C0.1&t=cYmGuCSzmUUjfks5-1&scaling=scale-down-width&content-scaling=fixed&starting-point-node-id=3%3A2)
 
 I'm always open to connecting with other developers, collaborating on exciting projects, and discussing new opportunities!
 
