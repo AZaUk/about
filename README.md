@@ -48,7 +48,7 @@ I'm a passionate **Computer Science** student at **Saxion University of Applied 
 ## 📢 Get in Touch
 
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/oleksandr-z/)
-![CodePen](https://skillicons.dev/icons?i=codepen)
+[![CodePen](https://skillicons.dev/icons?i=codepen)](https://codepen.io/AlexZab)
 [![Portfolio](https://skillicons.dev/icons?i=figma)](https://www.figma.com/proto/CznMBdXTD8U3ySWmDgBkoz/Oleksandr-Zabolotnyy's-Portfolio?page-id=0%3A1&node-id=3-2&p=f&viewport=176%2C151%2C0.1&t=cYmGuCSzmUUjfks5-1&scaling=scale-down-width&content-scaling=fixed&starting-point-node-id=3%3A2)
 
 I'm always open to connecting with other developers, collaborating on exciting projects, and discussing new opportunities!
